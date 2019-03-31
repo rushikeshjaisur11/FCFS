@@ -1,8 +1,8 @@
 "# FCFS" 
 Required Python Packages:
 
-1.Python 3.X \n
-2.Matplotlib \n
+1.Python 3.X 
+2.Matplotlib 
 
 How To Run:
 	1.Download The FCFS.py file 
